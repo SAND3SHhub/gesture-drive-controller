@@ -1,0 +1,5 @@
+mediapipe==0.10.20
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+vgamepad==0.1.0
+scikit-learn==1.9.0
